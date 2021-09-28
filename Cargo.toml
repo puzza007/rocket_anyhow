@@ -9,7 +9,7 @@ description = "throw any error inside rocket's route"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-rocket = {git="https://github.com/SergioBenitez/Rocket"}
-anyhow = "1.0.40"
+rocket = "0.5.0-rc.1"
+anyhow = "1.0"
 
 [dev-dependencies]
